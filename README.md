@@ -22,8 +22,9 @@ I'm a **Senior Frontend Developer** at **Grupo Boticário**, with expertise in *
   <img align="center" alt="Angular Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="HTML Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    ... and more
 </div>
-  ... and more
+
 
 ---
 
