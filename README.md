@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Gianlucca
 
-I'm a **Senior Frontend Developer** at **Grupo Boticário**, with expertise in **React.js**, **Jest**, **Backstage**, **UI/UX**, and **Material UI**. Passionate about building intuitive, scalable, and high-performance web applications.
+I'm a **Senior Frontend Engineer** at **Grupo Boticário**, with expertise in **React.js**, **Jest**, **Backstage**, **UI/UX**, and **Material UI**. Passionate about building intuitive, scalable, and high-performance web applications.
 
 ---
 
