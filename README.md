@@ -1,26 +1,36 @@
-## Hi 👋, I'm Gian
- <div>
-  <a href="https://github.com/gianluska">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gianluska&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianluska&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gian-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Gian-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Gian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/gianluska_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gianluccaclaudino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gianlucca-claudino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/gianluska/gianluska/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# 👋 Hello! I'm Gianlucca
+
+I'm a **Senior Frontend Developer** at **Grupo Boticário**, with expertise in **React.js**, **Jest**, **Backstage**, **UI/UX**, and **Material UI**. Passionate about building intuitive, scalable, and high-performance web applications.
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Alquimia**, a platform that streamlines component development, reducing dev time from 7 days to 20 minutes.
+- 🌱 Constantly learning new techniques in **UI/UX** and **Frontend Architecture**.
+- 🎓 Currently studying **three.js** at **ThreeJS Journey**.
+- ⚙️ Interested in **CI/CD**, **micro frontends**, and **design systems**.
+
+---
+
+## 🛠️ Tech Stack
+
+  <img align="center" alt="Javascript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescriopt Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NextsJS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Angular Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="HTML Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  ... and more
+
+---
+
+## 🔗 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/gianlucca-claudino/)
+- [Email](mailto:gianluccaclaudino@gmail.com)
+
+---
+
+*“Striving for simplicity and elegance in every line of code.”*
