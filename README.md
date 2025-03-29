@@ -34,5 +34,3 @@ I'm a **Senior Frontend Engineer** at **Grupo Boticário**, with expertise in **
 - [Email](mailto:gianluccaclaudino@gmail.com)
 
 ---
-
-*“Striving for simplicity and elegance in every line of code.”*
